@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family: sans-serif;
+}
+#footer{
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+}
+.containerfluid{
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    text-align: justify;
+
+}
+.plan{
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: contents;
+    
+
+}
+.forma{
+    margin-top: 15px;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+}
+.tabla{
+    margin-top: 25px;
+    border: solid black 2px;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+}
+.nec{
+    margin-top: 15px;
+    border: solid black 2px;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+}
+.cuotas_style{
+    margin-top: 25px;
+    border: solid black 2px;
+    text-align: center;
+    justify-content: center;
+ 
+}
+#boton1{
+    margin-top: 25px;
+    justify-content: baseline;
+}
+.boton2{
+    margin-top: 25px;
+    border: solid black 2px;
+    text-align: center;
+    justify-content: center;
+}
+.boton3{
+    margin-top: 25px;
+    border: solid black 2px;
+    text-align: center;
+    justify-content: center;
+
+}
+.telefonoFooter{
+    text-decoration: none;
+    color: white;
+}
+.reservaAuto {
+    text-decoration: none;
+    color: black;
+    text-align: justify;
+}
+.verReservas{
+    background-color: aqua;
+    text-decoration: none;
+    text-align: justify;
+    justify-content: baseline;
+}
+.contacto{
+    text-decoration: none;
+    color: white;
+}
